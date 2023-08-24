@@ -1,0 +1,12 @@
+.container{
+    background-color: white;
+    width: 80%;
+    height: 70%;
+    border-radius: 30px;
+}
+
+.weather-detail{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

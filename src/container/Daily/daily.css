@@ -1,0 +1,11 @@
+.daily-info{
+    display: flex;
+    justify-content: space-around;
+}
+
+.daily-box{
+    width: 100px;
+    height: 100px;
+    background-color: gray;
+    font-size: 16px;
+}

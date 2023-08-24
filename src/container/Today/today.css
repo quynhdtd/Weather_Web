@@ -1,0 +1,16 @@
+.today-board{
+    margin-left: 20px;
+}
+
+.icon{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+.temp-board{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+

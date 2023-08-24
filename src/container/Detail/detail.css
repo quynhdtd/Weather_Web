@@ -1,0 +1,13 @@
+.detail-board{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-content: space-around;
+    width: 600px;
+    height: 200px;
+}
+
+.detail-box{
+    height: 100px;
+    width: 200px;
+}
